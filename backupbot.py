@@ -1,7 +1,7 @@
 import requests, random, time, sys, os
 from colorama import Fore
 
-token = 'OTg0MDM5MTU3MzA1MzM1ODE5.G3HPQD.K_Xz7MkT-uBUU2Y91J9yzGn-6xpH84wt7X6O4A' # Your Discord token.
+token = '' # Your Discord token.
 
 print(Fore.BLUE + '''
 
